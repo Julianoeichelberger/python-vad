@@ -5,7 +5,7 @@ Python code to voice activity detection.This python program can read stream data
 
 Requirements
 ------------
-
+- python 3.6
 -	a buildin microphone or usb microphone on your device, you can use `arecord -L` to show your audio input devices.
 -	webrtcvad - `pip install webrtcvad`
 -	pyaudio - `pip install pyaudio`
